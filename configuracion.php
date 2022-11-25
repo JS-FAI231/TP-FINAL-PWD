@@ -28,7 +28,7 @@ if ($lcSysOp == "windows") {
     // CONFIGURACION APP FOR LINUX//
     /////////////////////////////
 
-    $PROYECTO = 'TP_FINAL_SAFE'; //Pone la ubicación de todo el proyecto desde htdocs del XAMP
+    $PROYECTO = 'TP_FINAL_PWD'; //Pone la ubicación de todo el proyecto desde htdocs del XAMP
 
     //variable que almacena el directorio del proyecto
     //$ROOT =$_SERVER['DOCUMENT_ROOT']."/$PROYECTO/"; //Agarra la ubicación del servidor donde tiene guardada la carpeta
